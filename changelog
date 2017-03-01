@@ -1,0 +1,5 @@
+libsodium (1.0.9-1) trusty; urgency=low
+
+  * Initial release
+
+ -- Ranieri Althoff (key for launchpad signature) <ranisalt@gmail.com>  Fri, 24 Feb 2017 23:08:43 +0000
